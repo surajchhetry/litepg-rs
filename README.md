@@ -1,2 +1,2 @@
 # minimal-rust-pgsql-driver
-A minimal postgresql driver to lean about how driver works.
+A minimal postgresql driver to learn about how database driver works.
