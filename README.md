@@ -1,2 +1,2 @@
-# minimal-rust-postgresql-driver
-A minimal postgresql driver to learn about how database driver works.
+# litepg-rs
+A minimal Rust-Based PostgreSQL Driver for Learning Purposes. **litepg-rs** is a lightweight PostgreSQL driver written in Rust, developed to explore and understand the fundamentals of database driver implementation. It focuses on the core aspects of establishing connections, executing queries, and handling responses directly with a PostgreSQL database. By stripping down to the essentials, it serves as an educational tool for developers looking to deepen their knowledge of Rust and database interaction protocols.
